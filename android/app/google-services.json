@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "877165690134",
+    "project_id": "organblooddonation-595e6",
+    "storage_bucket": "organblooddonation-595e6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:877165690134:android:0cf891edae766e646d2437",
+        "android_client_info": {
+          "package_name": "com.example.organ_blood_donation_management"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwTGLhFJlUnQGBhQSj6CQLW6RHYVtXQKU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
